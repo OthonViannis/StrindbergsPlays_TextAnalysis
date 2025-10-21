@@ -1,6 +1,7 @@
 (*View the full project on my personal website: https://othonviannis.com/#strindbergpython)
 
 **Literary Text Analysis: Mapping Strindberg - Data, Drama, and the Human Psyche**
+
 This project explores the evolution of Swedish playwright August Strindberg's works from naturalism to expressionism, using digital humanities tools to uncover psychological 
 and sociocultural patterns in 29 plays. By analyzing a corpus of naturalistic (realistic, social-focused) and expressionist (symbolic, emotional) plays, 
 the work examines how Strindberg's personal crises influenced his themes, blending psychoanalytic (inner conflicts) and constructivist (societal norms) perspectives.
